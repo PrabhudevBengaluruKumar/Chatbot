@@ -6,4 +6,4 @@ The aim of our present work is to provide a dialogue generation chatbot by using
 Dataset name : Cornell Movie--Dialogs Corpus
 Dataset Link : https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
 
-The code is given in the file chatbot.ipynb and packages required for it is mentioned in file requirements.txt
+The code is given in the file Chatbot.ipynb and Chatbot.py 
